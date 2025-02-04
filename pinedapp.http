@@ -1,0 +1,6 @@
+@pinedapp_HostAddress = http://localhost:5286
+
+GET {{pinedapp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
