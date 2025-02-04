@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mTr3EQhqTY+AskYcaqgc2Ks3U72xxJN75L2nCHItipU=",
+  "Source": "pinedapp",
+  "BasePath": "_content/pinedapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

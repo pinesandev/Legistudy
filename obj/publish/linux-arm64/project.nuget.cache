@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bcwks9vI3CQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pined\\DEV files\\Projects\\pinedapp\\pinedapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pined\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-arm64\\9.0.0\\microsoft.netcore.app.runtime.linux-arm64.9.0.0.nupkg.sha512",
+    "C:\\Users\\pined\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-arm64\\9.0.0\\microsoft.aspnetcore.app.runtime.linux-arm64.9.0.0.nupkg.sha512",
+    "C:\\Users\\pined\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm64\\9.0.0\\microsoft.netcore.app.host.linux-arm64.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
